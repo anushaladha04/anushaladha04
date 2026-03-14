@@ -1,16 +1,18 @@
-## Hi there 👋
+# hi, i'm anusha 🦕
 
-<!--
-**anushaladha04/anushaladha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a second-year cs student at ucla who loves building full-stack products and interactive web experiences, specifically those centered around social good and community impact.
 
-Here are some ideas to get you started:
+right now i'm working on projects like **studybug** (a social productivity app for students) and **savecanto map** (an interactive platform supporting cantonese language preservation).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+when i'm not coding, you'll probably find me **cafe hopping around la or at the gym**.
+
+## projects
+• **studybug** – social productivity platform for students  
+• **savecanto map** – interactive map of cantonese language programs  
+• **soundscape** – web app for discovering concerts in the la area  
+• **portfolio site** – 3d interactive island built with three.js
+
+## links
+portfolio: https://portfolio-site-tawny-three.vercel.app/  
+linkedin: https://linkedin.com/in/YOUR_LINKEDIN
+email: anushaladha4@ucla.edu
