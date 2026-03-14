@@ -12,7 +12,7 @@ when i'm not coding, you'll probably find me **cafe hopping around la or at the 
 • **soundscape** – web app for discovering concerts in the la area  
 • **portfolio site** – 3d interactive island built with three.js
 
-## links
+## contact
 portfolio: https://portfolio-site-tawny-three.vercel.app/  
 linkedin: https://www.linkedin.com/in/anusha-ladha/  
 email: anushaladha4 [at] ucla [dot] edu
