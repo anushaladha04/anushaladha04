@@ -6,12 +6,6 @@ right now i'm working on projects like **studybug** (a social productivity app f
 
 when i'm not coding, you'll probably find me **cafe hopping around la or at the gym**.
 
-## projects
-• **studybug** – social productivity platform for students  
-• **savecanto map** – interactive map of cantonese language programs  
-• **soundscape** – web app for discovering concerts in the la area  
-• **portfolio site** – 3d interactive island built with three.js
-
 ## contact
 portfolio: https://portfolio-site-tawny-three.vercel.app/  
 linkedin: https://www.linkedin.com/in/anusha-ladha/  
