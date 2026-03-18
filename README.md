@@ -9,4 +9,4 @@ when i'm not coding, you'll probably find me **cafe hopping around la or at the 
 ## contact
 portfolio: https://portfolio-site-tawny-three.vercel.app/  
 linkedin: https://www.linkedin.com/in/anusha-ladha/  
-email: anushaladha4 [at] ucla [dot] edu
+email: anushaladha4[at]ucla[dot]edu
